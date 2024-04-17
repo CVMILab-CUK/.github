@@ -1,2 +1,2 @@
-# .github
+# CVMILab
 Introduce CVMILab 
